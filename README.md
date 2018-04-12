@@ -7,7 +7,7 @@
 
   * Ubuntu 14.04 - 64 Bits ``(usuário: archivematica; senha: archivematica)``
   * Versão do Archivematica: 1.6.1
-  * Tamanho do arquivo .ova: 1.8 GB;
+  * Tamanho do arquivo .iso: 1.8 GB;
   * Formato: ISO;
 
   * Acesso ao Archivematica -> http://localhost/
