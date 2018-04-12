@@ -5,15 +5,15 @@
  
  ### Abaixo as instruções e detalhes:
 
-  * Ubuntu 14.04 - 64 Bits (usuário: archivematica; senha: archivematica)
+  * Ubuntu 14.04 - 64 Bits ``(usuário: archivematica; senha: archivematica)``
   * Versão do Archivematica: 1.6.1
   * Tamanho do arquivo .ova: 1.8 GB;
   * Formato: ISO;
 
   * Acesso ao Archivematica -> http://localhost/
 
-  * Acesso ao "Archivematica Storage Service" > http://localhost:8001/ > (User: test, Password: test) 
+  * Acesso ao "Archivematica Storage Service" > http://localhost:8001/ > ``(User: test, Password: test)``
     
   * Link para Download da ISO no Google Drive: [Ubuntu 14.04 With Archivematica ISO](https://drive.google.com/file/d/1LEMfuk82TOqrvwmykVnt3p07Pk_mUO2O/view)
   
-  ![Archivematica]
+  ![Archivematica](https://github.com/isasakis/Ubuntu14.04WithArchivematica/blob/master/archivematica.png)
