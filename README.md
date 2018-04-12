@@ -16,4 +16,4 @@
     
   * Link para Download da ISO no Google Drive: [Ubuntu 14.04 With Archivematica ISO](https://drive.google.com/file/d/1LEMfuk82TOqrvwmykVnt3p07Pk_mUO2O/view)
   
-  ![Archivematica](https://github.com/isasakis/Ubuntu14.04WithArchivematica/blob/master/archivematica.png)
+       ![Archivematica](https://github.com/isasakis/Ubuntu14.04WithArchivematica/blob/master/archivematica.png)
